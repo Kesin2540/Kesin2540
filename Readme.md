@@ -35,14 +35,14 @@
 
 ### ⚙️ Projects
 
-🧟 **[Haunted Zombie Rush](#)**  
+🧟 **[Haunted Zombie Rush](https://github.com/Kesin2540/Zombie-Game-project)**  
 A 3D Flappy Bird-style endless runner built in Unity with C#.  
 → Smooth physics-based controls, dynamic obstacle generation, and a haunted theme.
 
-🏦 **Banking System**  
+🏦 **[Banking System](https://github.com/Kesin2540/Banking-System-Project)**  
 A C++ CLI application simulating real-world banking operations using file handling and exception management.
 
-🔒 **Malicious URL Detection (WIP)**  
+🔒 **[Malicious URL Detection](https://github.com/Kesin2540/Malicious-url-detection)**  
 A machine learning-based Python project using Decision Trees and Random Forests to detect phishing and malicious URLs.
 
 ---
