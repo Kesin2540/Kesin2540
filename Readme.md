@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
 
@@ -67,9 +68,7 @@ A machine learning-based Python project using Decision Trees and Random Forests 
 ### 📫 Let's Connect
 
 - 📧 Email: singhkeshav386@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 💻 [GitHub](https://github.com/keshavsingh386)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/keshav-singh-1955b2317)  
 ---
 
 _Thanks for visiting my profile! Feel free to check out my repositories._
