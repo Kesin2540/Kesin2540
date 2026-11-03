@@ -57,11 +57,6 @@ An AI-driven platform combining OCR with text, image, and binary analysis for mu
 🔒 **[Malicious URL Detection](https://github.com/Kesin2540/Malicious-url-detection)**  
 A Python URL classifier using Decision Tree and Random Forest algorithms to detect phishing and malicious links, with an automated, repeatable scoring pipeline.
 
-#### 🎮 Earlier Projects
-
-🧟 **[Haunted Zombie Rush](https://github.com/Kesin2540/Zombie-Game-project)** · 3D endless runner built in Unity with C#.  
-🏦 **[Banking System](https://github.com/Kesin2540/Banking-System-Project)** · C++ CLI app simulating banking operations with file handling and exception management.
-
 ---
 
 ### 🏆 Certifications & Achievements
@@ -72,15 +67,6 @@ A Python URL classifier using Decision Tree and Random Forest algorithms to dete
 - 📊 **Data Science using Python** – NIELIT
 - 🛰️ **NASA Space Apps Challenge** – Participant
 - ☁️ **AWS Solutions Architect** – In progress
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kesin2540&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesin2540&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
