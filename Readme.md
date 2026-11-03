@@ -1,58 +1,77 @@
 <h1 align="center">Hi there 👋, I'm Keshav Singh</h1>
-<h3 align="center">Information Technology undergrad | Aspiring Software Developer | Tech Enthusiast</h3>
+<h3 align="center">DevOps & Cybersecurity | CompTIA Security+ Certified | IT Graduate</h3>
 
 ---
 
 ### 💻 About Me
 
-🎓 I'm a B.Tech student in **Information Technology** at Bhagwan Parshuram Institute of Technology (GGSIPU, Delhi).  
-🚀 Passionate about software development, game design, and machine learning.  
-🛠️ I enjoy building practical projects and solving real-world problems through code.  
-📚 Currently exploring: **Data Science**, **Cybersecurity**, and **Low-level Programming**.
+🎓 B.Tech in **Information Technology** from Bhagwan Parshuram Institute of Technology (GGSIPU, Delhi), 2022 – 2026 · CGPA 8.05  
+🔐 **CompTIA Security+** certified, with a foundation in threat detection, risk management, security operations, and secure architecture. Working knowledge of SIEM tooling and NIST RMF/CSF.  
+⚙️ Hands-on with infrastructure automation and CI/CD using **Docker, Jenkins, Ansible, FastAPI, and Linux (RHEL)** from my DevOps internship.  
+🤖 I apply machine learning to threat detection in personal projects.  
+📚 Currently pursuing: **AWS Solutions Architect**
+
+---
+
+### 💼 Experience
+
+**DevOps Engineering Intern · Xtelify Limited (Airtel Digital)** — Noida, UP · 6 months
+
+- Engineered an infrastructure automation pipeline using **Docker, FastAPI, Jenkins, Ansible, and Git** for automated patch remediation and multi-server deployments.
+- Built a **Patch Blast Risk Assessment System** integrating the Red Hat CSAF API with live RPM inspection on RHEL servers, classifying patch impact into three risk tiers and reducing manual assessment effort.
+- Streamlined release workflows across production servers with Ansible playbooks, improving deployment consistency and cutting manual configuration steps.
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=redhat&logoColor=white" alt="RHEL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
-
 </p>
+
+**Focus areas:** Infrastructure Automation · CI/CD Pipelines · Containerization · Configuration Management · Linux Administration · Cybersecurity & Threat Detection · SIEM · NIST RMF/CSF
 
 ---
 
 ### ⚙️ Projects
 
-🧟 **[Haunted Zombie Rush](https://github.com/Kesin2540/Zombie-Game-project)**  
-A 3D Flappy Bird-style endless runner built in Unity with C#.  
-→ Smooth physics-based controls, dynamic obstacle generation, and a haunted theme.
+🚀 **CI/CD & Patch Automation Pipeline**  
+Automated multi-server patch remediation and deployment using Docker, Jenkins, Ansible, and FastAPI, cutting manual configuration effort and standardizing release processes.
 
-🏦 **[Banking System](https://github.com/Kesin2540/Banking-System-Project)**  
-A C++ CLI application simulating real-world banking operations using file handling and exception management.
+🎣 **PhishSleuth: AI-Powered Phishing Detection**  
+An AI-driven platform combining OCR with text, image, and binary analysis for multi-format threat detection, with real-time monitoring and response.
 
 🔒 **[Malicious URL Detection](https://github.com/Kesin2540/Malicious-url-detection)**  
-A machine learning-based Python project using Decision Trees and Random Forests to detect phishing and malicious URLs.
+A Python URL classifier using Decision Tree and Random Forest algorithms to detect phishing and malicious links, with an automated, repeatable scoring pipeline.
+
+#### 🎮 Earlier Projects
+
+🧟 **[Haunted Zombie Rush](https://github.com/Kesin2540/Zombie-Game-project)** · 3D endless runner built in Unity with C#.  
+🏦 **[Banking System](https://github.com/Kesin2540/Banking-System-Project)** · C++ CLI app simulating banking operations with file handling and exception management.
 
 ---
 
-### 🏆 Achievements & Certifications
+### 🏆 Certifications & Achievements
 
-- 🛰️ Participant, **NASA Space Apps Hackathon** – developed innovative space-related solutions as part of a cross-functional team.  
-- 💡 **Mind Maelstrom Ideathon** by BVPINC – contributed creative solutions to real-world tech problems.  
-- 📜 **Advanced C++ by Abdul Bari (Udemy)**  
-- 📊 **Data Science using Python – NIELIT (Summer 2024)**
+- 🛡️ **CompTIA Security+**
+- 🔐 **Google Cybersecurity Professional Certificate** – Coursera
+- 🧰 **DevOps Internship Certificate** – Xtelify Limited (Airtel Digital)
+- 📊 **Data Science using Python** – NIELIT
+- 🛰️ **NASA Space Apps Challenge** – Participant
+- ☁️ **AWS Solutions Architect** – In progress
 
 ---
 
@@ -68,8 +87,8 @@ A machine learning-based Python project using Decision Trees and Random Forests 
 ### 📫 Let's Connect
 
 - 📧 Email: singhkeshav386@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/keshav-singh-1955b2317)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/keshav-singh-1955b2317)
+
 ---
 
 _Thanks for visiting my profile! Feel free to check out my repositories._
-
